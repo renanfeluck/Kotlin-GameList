@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ListAplicataion</string>
     <string name="renan_felipe_luckow">Renan Felipe Luckow</string>
+    <string name="Genres"><b>Genres: </b> asdf</string>
+    <string name="publishers">Publishers:</string>
+    <string name="developers">Developers:</string>
+    <string name="designers">Designers:</string>
+    <string name="descr">descr</string>
 </resources>
